@@ -1,0 +1,19 @@
+{
+  "name": "manipula-arquivos-nodejs",
+  "version": "1.0.0",
+  "description": "Manipulacao de arquivos usando node atraves da url",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "arquivos",
+    "manipulacao"
+  ],
+  "author": "Christopher Mickelle",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
